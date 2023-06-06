@@ -1,9 +1,9 @@
-¡Hola! 🫡 Soy Javier Santiago Diaz Arcila, un desarrollador junior 🧑🏻‍💻, apasionado por crear soluciones innovadoras utilizando tecnologías web. Me especializo en el desarrollo web Frontend, backend.
+✋¡Hola! Soy Javier Santiago Diaz Arcila, un desarrollador junior 🧑🏻‍💻, apasionado por crear soluciones innovadoras utilizando tecnologías web. Me especializo en el desarrollo web Frontend, backend.
 
-Mi profesión 🧑🏻‍💻 es el desarrollo de software, y mi objetivo es construir aplicaciones web de alta calidad y eficiencia ⌨️. Tengo experiencia en el desarrollo de proyectos
+🧑🏻‍💻Mi profesión es el desarrollo de software, y mi objetivo es construir aplicaciones web de alta calidad y eficiencia ⌨️. Tengo experiencia en el desarrollo de proyectos
 utilizando javaScript, Html, Css, Express, React y Node.js, y he trabajado con bases de datos relacionales utilizando Sequelize como ORM.
 
-Ofrezco servicios 🛠️ de desarrollo de aplicaciones web, creando interfaces atractivas y funcionales utilizando React, construyendo una arquitectura de backend sólida 
+🛠️Ofrezco servicios de desarrollo de aplicaciones web, creando interfaces atractivas y funcionales utilizando React, construyendo una arquitectura de backend sólida 
 con Node.js y gestionando de manera eficiente la capa de persistencia de datos utilizando Sequelize 🕑.
 
 Escríbeme 📝
