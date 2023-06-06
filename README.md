@@ -6,7 +6,7 @@ utilizando javaScript, Html, Css, Express, React y Node.js, y he trabajado con b
 Ofrezco servicios de desarrollo de aplicaciones web, creando interfaces atractivas y funcionales utilizando React, construyendo una arquitectura de backend sólida 
 con Node.js y gestionando de manera eficiente la capa de persistencia de datos utilizando Sequelize.
 
-📝Escríbeme a:
-Correo: santiagodiaz0201@gmail.com
-WhatsApp: (-57) 300-747-6082
-Linkeding: https://www.linkedin.com/in/javier-santiago-diaz-arcila-93645a1b7/
+Escríbeme 📝
+Correo santiagodiaz0201@gmail.com
+WhatsApp (-57) 300-747-6082
+Linkeding https://www.linkedin.com/in/javier-santiago-diaz-arcila-93645a1b7/
