@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="img/1.png" alt="Descripción de la imagen">
+</div>
+
 ✋¡Hola! Soy Javier Santiago Diaz Arcila, un desarrollador junior, apasionado por crear soluciones innovadoras utilizando tecnologías web. Me especializo en el desarrollo web Frontend, backend.🧑🏻‍
 
 🧑🏻‍💻Mi profesión es el desarrollo de software, y mi objetivo es construir aplicaciones web de alta calidad y eficiencia. Tengo experiencia en el desarrollo de proyectos
