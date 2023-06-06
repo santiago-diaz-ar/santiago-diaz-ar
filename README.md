@@ -7,6 +7,9 @@ Ofrezco servicios de desarrollo de aplicaciones web, creando interfaces atractiv
 con Node.js y gestionando de manera eficiente la capa de persistencia de datos utilizando Sequelize.
 
 Escríbeme 📝
+
 Correo santiagodiaz0201@gmail.com
+
 WhatsApp (-57) 300-747-6082
+
 Linkeding https://www.linkedin.com/in/javier-santiago-diaz-arcila-93645a1b7/
